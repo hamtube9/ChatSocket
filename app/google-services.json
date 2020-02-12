@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "926528293655",
+    "firebase_url": "https://chatsocket-6dc7a.firebaseio.com",
+    "project_id": "chatsocket-6dc7a",
+    "storage_bucket": "chatsocket-6dc7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926528293655:android:6bbcfc67c4e4f5ef",
+        "android_client_info": {
+          "package_name": "com.haiph.chatsocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926528293655-t4dup6fb6hja7aj4mn0ecieqd9l966d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haiph.chatsocket",
+            "certificate_hash": "8f6ce69b99b8ab4ca2f6aa0f585624ce22c22144"
+          }
+        },
+        {
+          "client_id": "926528293655-7en0mpmihh9fgb1idrgu9evqf0emgh5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh_p4_CguHr9GZAL-2W14o6Vt9Ar20rfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926528293655-7en0mpmihh9fgb1idrgu9evqf0emgh5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
